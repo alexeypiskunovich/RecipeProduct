@@ -18,7 +18,7 @@ const MainProducts: React.FC = () => {
     }
   }, [status, dispatch]);
 
-  const handlePageChange = (event: React.ChangeEvent<unknown>, value: number) => {
+  const handlePageChange = (value: number) => {
     setCurrentPage(value);
   };
 
@@ -47,7 +47,7 @@ const MainProducts: React.FC = () => {
       <Pagination
         count={Math.ceil(filteredRecipes.length / recipesPerPage)}
         page={currentPage}
-        onChange={handlePageChange}
+        onChange={(_event, value) => handlePageChange(value)}
         sx={{ marginTop: 2, display: 'flex', justifyContent: 'center' }}
       />
     </Box>
@@ -55,6 +55,8 @@ const MainProducts: React.FC = () => {
 };
 
 export default MainProducts;
+
+
 
 
 

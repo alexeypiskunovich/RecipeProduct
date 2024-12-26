@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import { NavLink } from 'react-router-dom';
-import { AppBar, Toolbar, Typography, Button, Menu, MenuItem, Input, Box } from '@mui/material';
+import { AppBar, Toolbar, Typography, Button, Menu, MenuItem, Box } from '@mui/material';
 import InputField from './InputField/InputField';
 
 const HeaderNavbar: React.FC = () => {

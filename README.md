@@ -42,7 +42,9 @@ Task is to create a Single Page Application (SPA) that displays a list of produc
 ## Functional
 You can test our recipe app by visiting the following link:[RecipeProduct Demo](https://alexeypiskunovich.github.io/RecipeProduct/). Evaluate the full functionality and learn more about the products in real time!
 <div align="center">
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-11-16.png" width="800">
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-13-22.png" width="800">
-<img src="https://github.com/alexeypiskunovich/Weather/blob/main/Screenshot/2024-12-02_01-15-26.png" width="800">
+<img src="https://github.com/alexeypiskunovich/RecipeProduct/blob/master/img/2024-12-26_23-00-55.png" width="800">
+<img src="https://github.com/alexeypiskunovich/RecipeProduct/blob/master/img/2024-12-26_23-01-36.png" width="800">
+<img src="https://github.com/alexeypiskunovich/RecipeProduct/blob/master/img/2024-12-26_23-02-29.png" width="800">
+<img src="https://github.com/alexeypiskunovich/RecipeProduct/blob/master/img/2024-12-26_23-03-10.png" width="800">
+<img src="https://github.com/alexeypiskunovich/RecipeProduct/blob/master/img/2024-12-26_23-03-47.png" width="800">
 </div>
